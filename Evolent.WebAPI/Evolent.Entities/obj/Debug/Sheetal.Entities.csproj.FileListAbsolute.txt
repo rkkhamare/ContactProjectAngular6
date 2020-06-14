@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Entities\bin\Debug\Sheetal.Entities.dll
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Entities\bin\Debug\Sheetal.Entities.pdb
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Entities\obj\Debug\Sheetal.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Entities\obj\Debug\Sheetal.Entities.dll
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Entities\obj\Debug\Sheetal.Entities.pdb
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Entities\obj\Debug\Sheetal.Entities.csprojAssemblyReference.cache

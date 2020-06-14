@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.WebAPI.Tests\bin\Debug\Evolent.WebAPI.Tests.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-06-18" time="02:31:48">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8804" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="L10ASO-PF0WLCBH" user="KhamareR" user-domain="HQ" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\Rajdeep's Drive\RI\Evolent_Contact_App\Evolent.WebAPI\Evolent.WebAPI.Tests\bin\Debug\Evolent.WebAPI.Tests.dll" executed="True" result="Success" success="True" time="0.783" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Evolent" executed="True" result="Success" success="True" time="0.772" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="WebAPI" executed="True" result="Success" success="True" time="0.771" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.770" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="ContactControllerTest" executed="True" result="Success" success="True" time="0.769" asserts="0">
+                    <results>
+                      <test-case name="Evolent.WebAPI.Tests.ContactControllerTest.AddNewProductsTest" executed="True" result="Success" success="True" time="0.665" asserts="2" />
+                      <test-case name="Evolent.WebAPI.Tests.ContactControllerTest.GetAllProductsTest" executed="True" result="Success" success="True" time="0.052" asserts="4" />
+                      <test-case name="Evolent.WebAPI.Tests.ContactControllerTest.UpdateProductsByIdTest" executed="True" result="Success" success="True" time="0.011" asserts="2" />
+                      <test-case name="Evolent.WebAPI.Tests.ContactControllerTest.UpdateProductsByInvalidInputTest" executed="True" result="Success" success="True" time="0.020" asserts="2" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Sheetal.Services.dll
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Sheetal.Services.pdb
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Sheetal.DataAccess.dll
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Sheetal.Entities.dll
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.dll
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Sheetal.DataAccess.pdb
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Sheetal.Entities.pdb
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.pdb
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\bin\Debug\Dapper.xml
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\obj\Debug\Sheetal.Services.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\obj\Debug\Sheetal.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\obj\Debug\Sheetal.Services.csproj.CopyComplete
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\obj\Debug\Sheetal.Services.dll
+C:\Users\Admin\Downloads\Evolent_Contact_App-master\Evolent.WebAPI\Evolent.Services\obj\Debug\Sheetal.Services.pdb
